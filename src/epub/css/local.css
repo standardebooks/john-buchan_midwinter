@@ -39,8 +39,8 @@ section[epub|type~="dedication"] > *{
 
 #dedication > p span{
 	font-size: larger;
-    font-variant: normal;
-    text-transform: uppercase;
+	font-variant: normal;
+	text-transform: uppercase;
 }
 /* end dedication */
 
@@ -73,7 +73,6 @@ section[epub|type~="dedication"] > *{
 [epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
-
 	display: none;
 }
 
