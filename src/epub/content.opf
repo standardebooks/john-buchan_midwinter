@@ -51,14 +51,17 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008111699</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Treachery threatens a planned Jacobite uprising, but one of its leading agents cannot work out who is the culprit.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Like &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan&lt;/a&gt; was fascinated by the mid-18th Century Jacobite uprising which pitted those loyal to the Stuarts—a faction largely based in Scotland—with those content with the Hanoverians then on the throne. Buchan was hard at work during the 1920s on his biography of the Marquess of Montrose (1612–1650) which further deepened his historical inclinations. It was during this period that &lt;i&gt;Midwinter&lt;/i&gt; was written. It’s generally regarded as one of Buchan’s more “serious” works of fiction, for all that it retains moments of excitement and whimsy.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Midwinter&lt;/i&gt; tells the story of Alastair Maclean during the preparations for the 1745 uprising that attempted to restore the Stuart line to the throne, with “Bonnie Prince Charlie” as their figurehead. Maclean is a fit, fighting Scot—young, but with experience of combat in France. As the story begins, he is serving as a secret agent in England, helping to assemble forces in support of the House of Stuart. During his travels he becomes aware that at least one of his fellow agents is systematically betraying the cause, feeding intelligence to their enemies. But who? Maclean cannot tell, but has various suspicions.&lt;/p&gt;
+			&lt;p&gt;The “Midwinter” of the title is not the season, however, even though much of the book takes place in a snowy midwinter setting. Rather, it is the surname of an odd, even mysterious character, Amos Midwinter. He is a kind of philosopher king of “Old England,” whose loyalties transcend those of the tawdry political tussle between party factions, and who in turn commands the loyalty of a hidden people; and these, at moments of need, come to Alastair Maclean’s aid.&lt;/p&gt;
+			&lt;p&gt;Intertwined with Maclean’s adventure is the story of a historical personage, none other than Samuel Johnson. Johnson’s biographer, James Boswell, records the following: “It is somewhat curious, that his literary career appears to have been almost totally suspended in the years 1745 and 1746, those years which were marked by a civil war in Great Britain, when a rash attempt was made to restore the House of Stuart to the throne.” Buchan’s fiction attempts to fill this gap, giving full value to the suggestions that Johnson was a Jacobite sympathizer (now a controversial notion), and that during this fallow period some of his later, famous work was in gestation. The fictional “editorial” prologue and epilogue give prominence to this creative artifice.&lt;/p&gt;
+			&lt;p&gt;It remains a small irony that a novel driven by Buchan’s love for his Scottish heritage, which has for its hero a redoubtable Scot, has also been called “perhaps his best book on England.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59178</dc:source>
-		<dc:source>https://archive.org/details/midwinter00buch_0</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/midwintercertain0000john</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Midwinter</meta>
@@ -70,10 +73,10 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Pettie</dc:contributor>
+		<meta property="file-as" refines="#artist">Pettie, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Pettie</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nb2008001851</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Marcia Brooks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brooks, Marcia</meta>
