@@ -32,15 +32,12 @@ section[epub|type~="dedication"] > *{
 
 /* Begin full-page Dedication */
 #dedication > p{
-	font-variant-caps: all-small-caps;
 	margin-bottom: 3em;
 	text-align: center;
 }
 
-#dedication > p span{
+#dedication > p b{
 	font-size: larger;
-	font-variant: normal;
-	text-transform: uppercase;
 }
 /* end dedication */
 
