@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Midwinter: Certain Travellers in Old England</dc:title>
 		<meta property="file-as" refines="#fulltitle">Midwinter</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Charles Edward, Prince, grandson of James II, King of England, 1720-1788 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Jacobite Rebellion, 1745-1746 -- Fiction</dc:subject>
